@@ -64,6 +64,7 @@ true 255 fake 2 0 0
 true 351 fake 3 0 0
 true 353 fake 3 0 0
 true 354 fake 3 0 0
+false 0 Schulhof 0 0 0
 false 1103 fake 1 0 0
 false 1105 fake 1 0 0
 false 1101 fake 1 0 0
